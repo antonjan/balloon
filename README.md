@@ -19,5 +19,5 @@ The Application is using direwalf, cw, gpsd, rpitx to create the APRS and CW mes
 3) Battery pack and managemen system From Giga Technology <br>
 4) USB GPS from Giga Technology<br>
 5) SDR Raspberry Pi transmitter hat from Giga Technology<br>
-6) Rubber duck Antenna for Hat and one for Rtl dongle.
-
+6) Rubber duck Antenna for Hat and one for Rtl dongle.<br>
+7) Temprature sensor.<br>
