@@ -13,6 +13,7 @@ The Application is using direwalf, cw, gpsd, rpitx to create the APRS and CW mes
 4) Install gpsd<br>
 5) Install sox<br>
 6) Install rpitxi<br>
+7) Install RTL-SDR<br>
 <b>What harware do you need for this project?</b><br>
 1) Raspberry Pi 2 - 3 use the A  as it use less poer from Giga Terchnology<br>
 2) RTL dongle if you want to controle the Pi reomtely via APRS from Giga Technology <br>
